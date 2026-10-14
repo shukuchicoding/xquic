@@ -241,6 +241,7 @@ set(
     "src/transport/scheduler/xqc_scheduler_backup_fec.c"
     "src/transport/scheduler/xqc_scheduler_rap.c"
     "src/transport/scheduler/xqc_scheduler_wlb.c"
+    "src/transport/scheduler/xqc_scheduler_wfsplit.c"
 )
 
 if(XQC_ENABLE_MP_INTEROP)
